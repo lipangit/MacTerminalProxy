@@ -1,5 +1,9 @@
 # MacTerinalProxy
 
+## Effect
+
+![Effect](https://user-images.githubusercontent.com/2038071/102829146-70158480-4421-11eb-92d4-c8ced4e1ea93.gif)
+
 ## Preparation
 
 1. brew install privoxy
@@ -16,7 +20,3 @@ proxy_on
 proxy_off
 
 proxy_check
-
-## Effect
-
-![Effect](https://user-images.githubusercontent.com/2038071/102829146-70158480-4421-11eb-92d4-c8ced4e1ea93.gif)
