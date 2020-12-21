@@ -7,6 +7,8 @@
 3. put the bash_profile into your bash_profile 
 4. edit the killport path and privoxy.config path, check privoxy path in your bash_profile
 
+![Preparation](https://user-images.githubusercontent.com/2038071/102829746-bae3cc00-4422-11eb-9245-22972ee2c66f.jpg)
+
 ## Use
 
 proxy_on
