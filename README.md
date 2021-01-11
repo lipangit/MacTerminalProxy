@@ -1,4 +1,4 @@
-# MacTerinalProxy
+# MacTerminalProxy
 
 ## Effect
 
